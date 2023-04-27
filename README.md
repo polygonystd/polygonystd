@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @polygonystd
--  I’m a Models Creator & Pixelartist
+-  I’m a Models Creator & Pixel Artist
 __________________________________
 - My Store
 - MCMODELS: https://mcmodels.net/vendors/polygony-store/
