@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @polygonystd
 -  I’m a Models Creator & Pixel Artist
 __________________________________
-- My Store
-- MCMODELS: https://mcmodels.net/vendors/polygony-store/
-- POLYMART: https://polymart.org/user/polygony-std.21769
-- BUILTBYBIT: https://builtbybit.com/members/polygony.374697/#resources
+- https://polygony.co/
 __________________________________
 - Follow me here
 - https://twitter.com/polygon_mc
